@@ -1,3 +1,4 @@
+// Garçom herda da classe Pessoa
 public class Garcom extends Pessoa {
     private int id; // Atributo exclusivo do garçom
 
