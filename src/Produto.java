@@ -1,4 +1,3 @@
-// Produto.java
 import java.util.Objects;
 
 public class Produto {
